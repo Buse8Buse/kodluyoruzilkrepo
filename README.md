@@ -9,7 +9,7 @@ git clone https://github.com/Buse8Buse/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra kullanacağınız programda açınız.
 Linux için:
 cd kodluyoruzilkrepo
-code
+code .
 ## CONTRIBUTING
 Pull requestler kabul edilir. Büyük değişiklikleriçin, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## LICENSE
